@@ -1,0 +1,7 @@
+x=input("enter a:")
+i=-1
+g=" "
+while(-len(x)<=i):
+    g=g+x[i]
+    i=i-1
+print(g)    
